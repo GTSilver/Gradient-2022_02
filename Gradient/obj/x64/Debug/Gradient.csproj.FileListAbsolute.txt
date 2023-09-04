@@ -1,0 +1,43 @@
+D:\Рабочий стол\Gradient\Gradient\bin\x64\Debug\Gradient.exe.config
+D:\Рабочий стол\Gradient\Gradient\bin\x64\Debug\Gradient.exe
+D:\Рабочий стол\Gradient\Gradient\bin\x64\Debug\Gradient.pdb
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.Form1.resources
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.Properties.Resources.resources
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.GenerateResource.cache
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.exe
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.pdb
+D:\Рабочий стол\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.exe.config
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.pdb
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.AssemblyReference.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.Form1.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.Properties.Resources.resources
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.GenerateResource.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.exe
+D:\Рабочий стол\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.pdb
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.exe.config
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.exe
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\bin\x64\Debug\Gradient.pdb
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.AssemblyReference.cache
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.Form1.resources
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.Properties.Resources.resources
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.GenerateResource.cache
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.exe
+D:\Рабочий стол\Архив\,Проекты\Инвестиционный проект\Программы\Расчёт настроек 2.00\Программа\Gradient\Gradient\obj\x64\Debug\Gradient.pdb
+D:\Рабочий стол\C#\Gradient\Gradient\bin\x64\Debug\Gradient.exe.config
+D:\Рабочий стол\C#\Gradient\Gradient\bin\x64\Debug\Gradient.exe
+D:\Рабочий стол\C#\Gradient\Gradient\bin\x64\Debug\Gradient.pdb
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.Form1.resources
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.Properties.Resources.resources
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.exe
+D:\Рабочий стол\C#\Gradient\Gradient\obj\x64\Debug\Gradient.pdb
